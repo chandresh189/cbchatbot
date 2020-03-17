@@ -1,1 +1,2 @@
-# cbchatbot
+# CBFriendsCost
+CB Project
